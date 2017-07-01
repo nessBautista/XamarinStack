@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01_iOS", "Example01_iOS\Example01_iOS.csproj", "{78B86012-32B9-4621-A1A4-EBDD386EAE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Release|iPhone.ActiveCfg = Release|iPhone
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Release|iPhone.Build.0 = Release|iPhone
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{78B86012-32B9-4621-A1A4-EBDD386EAE33}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
