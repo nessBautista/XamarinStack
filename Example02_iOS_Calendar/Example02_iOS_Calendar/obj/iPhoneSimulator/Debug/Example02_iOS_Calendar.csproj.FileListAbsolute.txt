@@ -1,0 +1,10 @@
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/bin/iPhoneSimulator/Debug/Example02_iOS_Calendar.exe
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/bin/iPhoneSimulator/Debug/Example02_iOS_Calendar.pdb
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/Example02_iOS_Calendar.csproj.CoreCompileInputs.cache
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/Example02_iOS_Calendar.exe
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/obj/iPhoneSimulator/Debug/Example02_iOS_Calendar.pdb
+/Users/Nestor/Projects/Example02_iOS_Calendar/Example02_iOS_Calendar/bin/iPhoneSimulator/Debug/TimesSquare.iOS.dll

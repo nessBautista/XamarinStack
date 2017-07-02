@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="UlH-lb-qmc">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter your name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="csw-Uh-Pnq" misplaced="YES">
+                                <rect key="frame" x="57" y="114" width="261" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ZQl-J1-e4d" misplaced="YES">
+                                <rect key="frame" x="57" y="156" width="261" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="okS-bP-icS" misplaced="YES">
+                                <rect key="frame" x="57" y="209" width="261" height="30"/>
+                                <state key="normal" title="Enter your birthday"/>
+                                <connections>
+                                    <segue destination="1aA-OD-Qht" kind="show" id="7RC-bR-KW7" identifier="Calendar"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="21" translatesAutoresizingMaskIntoConstraints="NO" misplaced="YES">
+                                <rect key="frame" x="57" y="263" width="261" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <constraints>
+                                    <constraint id="26" firstItem="21" firstAttribute="height" constant="21"/>
+                                </constraints>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="okS-bP-icS" firstAttribute="trailing" secondItem="ZQl-J1-e4d" secondAttribute="trailing" id="0Fy-Tg-Rmn"/>
+                            <constraint firstItem="csw-Uh-Pnq" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="50" id="6G4-eZ-cl7"/>
+                            <constraint firstItem="csw-Uh-Pnq" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="41" id="FUL-3x-EwM"/>
+                            <constraint firstItem="ZQl-J1-e4d" firstAttribute="top" secondItem="csw-Uh-Pnq" secondAttribute="bottom" constant="21" id="Q44-Nz-Kyo"/>
+                            <constraint firstItem="ZQl-J1-e4d" firstAttribute="trailing" secondItem="csw-Uh-Pnq" secondAttribute="trailing" id="Zzd-V6-WZd"/>
+                            <constraint firstItem="ZQl-J1-e4d" firstAttribute="leading" secondItem="csw-Uh-Pnq" secondAttribute="leading" id="amb-Wp-zlr"/>
+                            <constraint firstItem="okS-bP-icS" firstAttribute="leading" secondItem="ZQl-J1-e4d" secondAttribute="leading" id="htX-s9-2O9"/>
+                            <constraint firstItem="okS-bP-icS" firstAttribute="top" secondItem="ZQl-J1-e4d" secondAttribute="bottom" constant="23" id="xJo-DJ-4oM"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="csw-Uh-Pnq" secondAttribute="trailing" constant="41" id="zLg-1p-VJq"/>
+                            <constraint id="22" firstItem="21" firstAttribute="top" secondItem="okS-bP-icS" secondAttribute="centerY" constant="39"/>
+                            <constraint id="23" firstItem="21" firstAttribute="leading" secondItem="okS-bP-icS" secondAttribute="leading"/>
+                            <constraint id="25" firstItem="21" firstAttribute="trailing" secondItem="okS-bP-icS" secondAttribute="trailing"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Y3r-EB-CrH"/>
+                    <connections>
+                        <outlet property="lblName" destination="csw-Uh-Pnq" id="name-outlet-csw-Uh-Pnq"/>
+                        <outlet property="txtName" destination="ZQl-J1-e4d" id="name-outlet-ZQl-J1-e4d"/>
+                        <outlet property="btnBirthday" destination="okS-bP-icS" id="name-outlet-okS-bP-icS"/>
+                        <outlet property="lblResult" destination="21" id="name-outlet-21"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1008.8" y="-520.3898"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="g7m-qa-nPL">
+            <objects>
+                <viewController id="1aA-OD-Qht" sceneMemberID="viewController" customClass="CalendarViewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="GLk-dB-Cby"/>
+                        <viewControllerLayoutGuide type="bottom" id="aDM-sU-5Db"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="lan-9R-8IA">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.5" green="0.0" blue="0.5" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Wxy-iJ-xKT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1753" y="-483"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="DNc-C5-yMb">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="UlH-lb-qmc" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Jbn-DJ-eIN">
+                        <rect key="frame" x="0.0" y="20" width="600" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="gta-rS-RZM"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mwe-pu-6Qf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="212" y="-545.5772"/>
+        </scene>
+    </scenes>
+</document>

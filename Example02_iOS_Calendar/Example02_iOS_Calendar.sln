@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02_iOS_Calendar", "Example02_iOS_Calendar\Example02_iOS_Calendar.csproj", "{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Release|iPhone.Build.0 = Release|iPhone
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

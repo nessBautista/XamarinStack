@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AA2154A0-F3E6-4FD9-B397-D766F804BDA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example02_iOS_Calendar/ViewController.cs">
+    <Files>
+      <File FileName="Example02_iOS_Calendar/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Example02_iOS_Calendar/Main.storyboard" />
+      <File FileName="Example02_iOS_Calendar/ViewController.cs" Line="27" Column="70" />
+      <File FileName="Example02_iOS_Calendar/CalendarViewController.cs" Line="37" Column="4" />
+      <File FileName="Example02_iOS_Calendar/UserData.cs" Line="7" Column="50" />
+      <File FileName="Example02_iOS_Calendar/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Example02_iOS_Calendar" expanded="True">
+            <Node name="Example02_iOS_Calendar" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Example02__iOS__Calendar PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FD2D0201-E672-4234-A526-AC0701496873" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
