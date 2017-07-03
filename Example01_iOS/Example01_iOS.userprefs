@@ -1,10 +1,7 @@
 ﻿<Properties StartupConfiguration="{78B86012-32B9-4621-A1A4-EBDD386EAE33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Example01_iOS/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example01_iOS/ViewController.cs">
     <Files>
-      <File FileName="Example01_iOS/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Example01_iOS/ViewController.cs" Line="48" Column="1" />
-      <File FileName="Example01_iOS/ViewController.designer.cs" Line="83" Column="1" />
-      <File FileName="Example01_iOS/Main.storyboard" />
+      <File FileName="Example01_iOS/ViewController.cs" Line="97" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

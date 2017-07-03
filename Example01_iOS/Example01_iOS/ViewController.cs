@@ -1,5 +1,6 @@
 ﻿using System;
-
+using System.Diagnostics;
+using System.Text;
 using UIKit;
 
 namespace Example01_iOS
@@ -24,6 +25,10 @@ namespace Example01_iOS
 				alert.AddAction(UIAlertAction.Create("Ok", UIAlertActionStyle.Default, ChangeLabel1Color));
 				PresentViewController(alert, true, null);
             };
+
+            //Code basics
+            //this.variablesExample();
+            buildingStrings();
         }
 
         public override void DidReceiveMemoryWarning()
@@ -49,5 +54,58 @@ namespace Example01_iOS
         {
             this.label1.BackgroundColor = UIColor.Blue;
         }
+
+        private void variablesExample()
+        {
+            //char array
+            char[] charArray = { 'h','e','l','l','o'};
+            Debug.WriteLine("The output of charArray is" + charArray);
+            //String
+            string hello = new string(charArray);
+            Debug.WriteLine("The output of hello is: " + hello);
+
+            string helloUpper = hello.ToUpper();
+            Debug.WriteLine("The output of helloUpper is: " + helloUpper);
+
+            string sub = hello.Substring(3, 2);
+            Debug.WriteLine("The output of sub is: " + sub);
+        }
+
+        private void buildingStrings()
+        {
+            //Appending
+            StringBuilder builder = new StringBuilder();
+            builder.Append("Hello");    
+            Debug.WriteLine(builder);
+            builder.Append(",")
+                   .Append(" World")
+                   .Append("!");
+            Debug.WriteLine(builder);
+
+            //Parsing
+            string s = "255";
+            int intFromString = Int32.Parse(s);
+            Debug.WriteLine("Value from string: " + intFromString);
+
+            int sByTwo = intFromString * 2;
+            Debug.WriteLine("s * 2: " + sByTwo);
+
+            string s2 = "10.5";
+            double doubleFromString = Double.Parse(s2);
+            Debug.WriteLine("double from string: " + doubleFromString);
+
+            string s3 = "10.0";
+            double parsedS3;
+            if(Double.TryParse(s3, out parsedS3))
+            {
+                Debug.WriteLine("double from string: " + parsedS3);
+            }
+            else 
+            {
+                Debug.WriteLine("Couldn't parse that value");
+            }
+        }
+
+
     }
 }

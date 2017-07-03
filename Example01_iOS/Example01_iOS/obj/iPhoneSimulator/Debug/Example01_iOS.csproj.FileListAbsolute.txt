@@ -7,3 +7,12 @@
 /Users/Nestor/Projects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.csproj.CoreCompileInputs.cache
 /Users/Nestor/Projects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.exe
 /Users/Nestor/Projects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.pdb
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/bin/iPhoneSimulator/Debug/Example01_iOS.exe
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/bin/iPhoneSimulator/Debug/Example01_iOS.pdb
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.csproj.CoreCompileInputs.cache
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.exe
+/Users/Nestor/Documents/XamarinProjects/Example01_iOS/Example01_iOS/obj/iPhoneSimulator/Debug/Example01_iOS.pdb
