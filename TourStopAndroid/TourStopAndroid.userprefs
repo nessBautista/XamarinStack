@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F7378B8F-56AD-4CC2-896A-5358E5A34677}|Default">
+  <MonoDevelop.Ide.ItemProperties.TourStopAndroid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TourStopAndroid/MainActivity.cs">
+    <Files>
+      <File FileName="TourStopAndroid/MainActivity.cs" Line="47" Column="6" />
+      <File FileName="TourStopAndroid/SecondActivity.cs" Line="10" Column="11" />
+      <File FileName="TourStopAndroid/Resources/values/Strings.xml" Line="5" Column="59" />
+      <File FileName="TourStopAndroid/Properties/AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TourStopAndroid" expanded="True">
+            <Node name="TourStopAndroid" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Nestor/Documents/XamarinStack/TourStopAndroid/TourStopAndroid/MainActivity.cs" relfile="TourStopAndroid/MainActivity.cs" line="43" column="1" />
+      <Breakpoint file="/Users/Nestor/Documents/XamarinStack/TourStopAndroid/TourStopAndroid/MainActivity.cs" relfile="TourStopAndroid/MainActivity.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
