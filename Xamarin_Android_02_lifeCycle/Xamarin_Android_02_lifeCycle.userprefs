@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{70CB5CC7-625D-40ED-BDD8-EDD7665E84E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin_Android_02_lifeCycle/MainActivity.cs">
+    <Files>
+      <File FileName="Xamarin_Android_02_lifeCycle/MainActivity.cs" Line="11" Column="6" />
+      <File FileName="Xamarin_Android_02_lifeCycle/Resources/values/Strings.xml" Line="6" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Xamarin__Android__02__lifeCycle AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

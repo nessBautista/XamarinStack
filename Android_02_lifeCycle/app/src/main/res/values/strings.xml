@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android_02_lifeCycle</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_run_code">Run code</string>
+    <string name="title_clear">Clear log</string>
+</resources>
