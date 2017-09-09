@@ -64,9 +64,9 @@ namespace Xamarin_Android_02_lifeCycle
             Console.WriteLine(Message);
 
             //Update textview
-            globalMessage = globalMessage + Message + "\n";
-            txtText.Text = globalMessage;
-			//txtText.Append(Message + "\n");
+            //globalMessage = globalMessage + Message + "\n";
+            //txtText.Text = globalMessage;
+			txtText.Append(Message + "\n");
 
 			//TODO: Need to configure layouts
 

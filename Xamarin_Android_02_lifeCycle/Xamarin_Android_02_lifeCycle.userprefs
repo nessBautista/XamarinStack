@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{70CB5CC7-625D-40ED-BDD8-EDD7665E84E9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin_Android_02_lifeCycle/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin_Android_02_lifeCycle/Properties/AndroidManifest.xml">
     <Files>
-      <File FileName="Xamarin_Android_02_lifeCycle/MainActivity.cs" Line="11" Column="6" />
+      <File FileName="Xamarin_Android_02_lifeCycle/MainActivity.cs" Line="10" Column="4" />
       <File FileName="Xamarin_Android_02_lifeCycle/Resources/values/Strings.xml" Line="6" Column="50" />
+      <File FileName="Xamarin_Android_02_lifeCycle/Properties/AndroidManifest.xml" Line="5" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
