@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4A6D0852-BF8A-4F56-9BE1-F1C0AAC59245}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin_Android_03_listviews/ProductListAdapter.cs">
+    <Files>
+      <File FileName="Xamarin_Android_03_listviews/MainActivity.cs" Line="26" Column="40" />
+      <File FileName="Xamarin_Android_03_listviews/ProductListAdapter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xamarin__Android__03__listviews AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
